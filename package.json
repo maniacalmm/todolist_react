@@ -8,6 +8,7 @@
     "react-scripts": "1.1.0"
   },
   "proxy": "http://todotodolist.herokuapp.com",
+  "disableHostCheck": true,
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
