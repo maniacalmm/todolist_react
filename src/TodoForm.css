@@ -1,0 +1,20 @@
+.input-form {
+    font-size: 20px;
+    width: 50vw;
+    border: none;
+    outline: none;
+    height: 50px;
+    border-bottom: 3px solid black;
+}
+
+form {
+    display: flex;
+    align-items: baseline;
+}
+
+.submit-btn {
+    border: none;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 10px;
+}

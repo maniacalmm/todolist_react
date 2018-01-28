@@ -1,0 +1,10 @@
+.delete-btn {
+    float: right;
+    transition: all 0.3s;
+    opacity: 0.1;
+}
+
+.delete-btn:hover {
+    opacity: 1;
+    color:#e74c3c;
+}

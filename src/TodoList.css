@@ -1,0 +1,11 @@
+.todo-container {
+    font-size: 2em;
+    margin: auto;
+    text-align: center;
+    width: 50%;
+    font-family: 'Lato', sans-serif;
+}
+
+.todo-list {
+    font-size: 1em;
+}
