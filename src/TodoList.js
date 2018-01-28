@@ -63,6 +63,7 @@ class TodoList extends Component {
    
             <div className="todo-container">
                 <h1> todo / List </h1>
+                <h3> created with React </h3>
                 <TodoForm createTodo={this.createTodo}/>
                 <ul className="todo-list">
                     
